@@ -1,0 +1,6 @@
+{
+  "name": "LudoArena",
+  "description": "Real-time multiplayer Ludo gaming platform with online matchmaking, private rooms, AI opponents, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
